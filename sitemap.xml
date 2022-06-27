@@ -2,3 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://boazpowerwashing.com/index</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/store</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/reviews</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/gallery-All</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/gallery-Pressure-Washing</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/gallery-Soft-Wash</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/gallery-Commercial-Cleaning</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/gallery-Videos</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/service-Power-Washing</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/service-Soft-Washing</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/service-Driveway-&-Sidewalk-Cleaning</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/service-Deck-&-Patio-Cleaning</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/service-Fence-Washing</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/service-Gutter-cleaning</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://boazpowerwashing.com/service-Window-Cleaning</loc>
+        <lastmod>2022-06-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
